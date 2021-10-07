@@ -1,0 +1,19 @@
+.thumbnail {
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    margin-right: 10px;
+ 
+    
+  }
+
+ .song-list-container{
+     padding-top: 20px;
+    
+     
+ }
+
+ .text-color{
+     color: aliceblue;
+ }
+

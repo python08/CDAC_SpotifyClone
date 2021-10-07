@@ -1,0 +1,15 @@
+.small-thumbnail{
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+}
+.color{
+    color: aliceblue;
+    vertical-align: middle;
+}
+
+.play-pause{
+    margin-top: 8px;
+    height: 35px;
+    width: 35px;
+}

@@ -1,0 +1,40 @@
+.title {
+  margin-top: 5px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: rgb(253, 253, 253) ;
+    
+  }
+  
+  .image {
+    width: 130px;
+    height: 130px;
+    border-radius: 15px;
+    
+  }
+  
+  .item-title {
+    margin-top: 10px;
+    font-size: 85%;
+    text-overflow:ellipsis;  /* text overflow, overflow, whitespace, all implement to hide extra letter in line width should be in px  */
+    width: 129px;
+    overflow:hidden;
+    white-space:nowrap; 
+  }
+
+  .item-container{
+    float: left;
+    margin: 10px;
+    font-weight: bold;
+ 
+  }
+  
+  .slider-container{
+    clear: both;
+    padding-bottom: 20px;
+    height: 220px;
+    border-bottom: solid rgb(255, 255, 255) 1px;
+    margin-top: 20px;
+    
+   
+  }
